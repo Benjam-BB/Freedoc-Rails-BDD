@@ -15,6 +15,9 @@ lancer le seed
     ```
     rails db:seed
     ```
+    
+Il y a la gem time_print si tu veux voir des beaux tableaux et la gem faker pour générer le seed plus facilement
+
 <p> et voila vous avez géneré une table de client, de doctor, de rdv, de ville et de specialité</p>
 <p><p> Pour rappel: </p>
 <ul>
